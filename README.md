@@ -1,7 +1,7 @@
 ## Oi, seja bem vindo ao meu perfil 👋😃
 
 <a href="https://github.com/Alessander-Magno/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Alessander-Magno&show_icons=true&theme=cobalt&rank_icon=github" />>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Alessander-Magno&show_icons=true&theme=cobalt&rank_icon=github" />
 </a>
 <a href="https://github.com/Alessander-Magno/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessander-Magno&layout=compact&theme=cobalt" />

@@ -1,10 +1,10 @@
 ## Oi, seja bem vindo ao meu perfil 👋😃
 
 <a href="https://github.com/Alessander-Magno/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alessander-Magno&show_icons=true&theme=padrao" />>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Alessander-Magno&show_icons=true&theme=padrao" />>
 </a>
 <a href="https://github.com/Alessander-Magno/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessander-Magno&layout=compact" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessander-Magno&layout=compact" />
 </a>
 
  ##
